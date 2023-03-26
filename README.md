@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Fullstack Developer with a strong focus on frontend development.</h3>
 	
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=TANAYTAPANSHU&color=blueviolet&style=flat">
 </p>
 
 - 🌱 I’m currently learning about **Product Design**
