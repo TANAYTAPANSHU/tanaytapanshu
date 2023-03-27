@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/TANAYTAPANSHU?tab=repositories)
 
-- 💬 Ask me about  **HTML** ,**CSS** ,**JavaScript** ,**TypeScript** ,**ReactJS** ,**ReactNative** ,**Python**  ,**Postgresql** , **AWS**, , **Firebase**
+- 💬 Ask me about  **HTML** ,**CSS** ,**JavaScript** ,**TypeScript** ,**ReactJS** ,**ReactNative** ,**Python**  ,**Postgresql** , **AWS** ,**Firebase**
 
 - 📫 How to reach me **tanaytapanshu@gmail.com**
 
