@@ -25,7 +25,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![React Native](https://img.shields.io/badge/ReactNative-02569B?style=for-the-badge&logo=react&logoColor=white)
 ![Next JS](https://img.shields.io/badge/-NextJS-%231572B6?style=for-the-badge)
-![AWS](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/-AWS-FFCA28?style=for-the-badge&logo=amazon&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
@@ -37,7 +37,6 @@
 <br>
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
