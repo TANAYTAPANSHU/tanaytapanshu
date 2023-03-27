@@ -53,9 +53,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/tanay-tapanshu-a128a8179"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<!-- <a href="https://www.tanaytapanshu.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://linkedin.com/in/tanay-tapanshu-a128a8179"><img src="https://img.shields.io/badge/-tanaytapanshu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tanaytapanshu@gmail.com"><img src="https://img.shields.io/badge/-tanaytapanshu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/TapanshuTanay"><img src="https://img.shields.io/badge/-@TapanshuTanay-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanaytapanshu&" alt="tanaytapanshu" /></p> -->
