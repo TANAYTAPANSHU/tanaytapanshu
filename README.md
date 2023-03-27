@@ -24,7 +24,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![React Native](https://img.shields.io/badge/ReactNative-02569B?style=for-the-badge&logo=react&logoColor=white)
-![Next JS](https://img.shields.io/badge/-Next JS-%231572B6?style=for-the-badge)
+![Next JS](https://img.shields.io/badge/-NextJS-%231572B6?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
